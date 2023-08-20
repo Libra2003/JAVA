@@ -3,7 +3,8 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lecture 1" isTestSource="false" packagePrefix="Semester.ACP.Programs.Inheritance.Lecture" />
+      <sourceFolder url="file://$MODULE_DIR$/Lecture 2" isTestSource="false" packagePrefix="base" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

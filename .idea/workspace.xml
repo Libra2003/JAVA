@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f0962998-04c7-45f3-a4bc-c56477259855" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Assignment 3/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 3/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment 3/.idea/libraries/ucanaccess_5_0_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 3/.idea/libraries/ucanaccess_5_0_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment 3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 3/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment 3/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 3/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment 3/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 3/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment 3/Assignment 3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment 3/src/P_M_S.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 3/src/P_M_S.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment/Assignment_2/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment/Assignment_2/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment/Assignment_2/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment/Assignment_2/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment/Assignment_2/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment/Assignment_2/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment/Assignment_2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment/Assignment_2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment/Assignment_2/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment/Assignment_2/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment/Assignment_2/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment/Assignment_2/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment/Assignment_2/Assignment_2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment/Assignment_2/Assignment_2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment/Assignment_2/src/ACP/Client/client.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment/Assignment_2/src/ACP/Client/client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment/Assignment_2/src/ACP/Employee/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment/Assignment_2/src/ACP/Employee/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise/Exercise.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise/src/Exercise_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise/src/Exercise_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise/src/Part_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise/src/Part_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise/src/exe_2_prt_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise/src/exe_2_prt_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/First_java_Project/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/First_java_Project/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/First_java_Project/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/First_java_Project/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/First_java_Project/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/First_java_Project/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/First_java_Project/First_java_Project.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/First_java_Project/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/First_java_Project/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice Set 3/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Practice Set 3/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice Set 3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Practice Set 3/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice Set 3/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Practice Set 3/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice Set 3/Practice Set 3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice Set 3/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice Set 3/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice Set 3/src/problem_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice Set 3/src/problem_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/Additions/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/Additions/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/Additions/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/Additions/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/Additions/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/Additions/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/Additions/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/Additions/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/Additions/Additions.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/Additions/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/Additions/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/Comparision/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/Comparision/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/Comparision/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/Comparision/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/Comparision/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/Comparision/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/Comparision/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/Comparision/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/Comparision/Comparision.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/Comparision/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/Comparision/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/First Program/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/First Program/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/First Program/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/First Program/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/First Program/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/First Program/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/First Program/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/First Program/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/First Program/First Program.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/First Program/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/First Program/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/Inheritance/Lecture 1/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/Inheritance/Lecture 1/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/Inheritance/Lecture 1/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/Inheritance/Lecture 1/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/Inheritance/Lecture 1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/Inheritance/Lecture 1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/Inheritance/Lecture 1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/Inheritance/Lecture 1/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/Inheritance/Lecture 1/Inheritance1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/Inheritance/Lecture 1/Inheritance1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/Inheritance/Lecture 1/src/Base.java" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/Inheritance/Lecture 1/src/Base.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/Inheritance/Lecture 1/src/child.java" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/Inheritance/Lecture 1/src/child.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/Inheritance/Lecture 2/base.java" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/Inheritance/Lecture 2/base.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/Inheritance/Lecture 2/child.java" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/Inheritance/Lecture 2/child.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/Mid Exercies/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/Mid Exercies/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/Mid Exercies/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/Mid Exercies/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/Mid Exercies/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/Mid Exercies/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/Mid Exercies/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/Mid Exercies/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/Mid Exercies/Mid Exercies.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/Mid Exercies/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/Mid Exercies/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/Opp_Lec_1/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/Opp_Lec_1/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/Opp_Lec_1/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/Opp_Lec_1/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/Opp_Lec_1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/Opp_Lec_1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/Opp_Lec_1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/Opp_Lec_1/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/Opp_Lec_1/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/Opp_Lec_1/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/Opp_Lec_1/Opp_Lec_1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/Opp_Lec_1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/Opp_Lec_1/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/Overridding/overriding.java" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/Overridding/overriding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Strings/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Strings/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Strings/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/Strings.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/src/Exercies.java" beforeDir="false" afterPath="$PROJECT_DIR$/Strings/src/Exercies.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Strings/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/src/String_Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/Strings/src/String_Methods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Switch/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Switch/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Switch/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Switch/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Switch/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Switch/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Switch/Switch.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Switch/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Switch/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tayyab Zain- 4293-FBAS-BSCS-F20/code/P_M_S.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tayyab Zain- 4293-FBAS-BSCS-F20/code/P_M_S.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2UFq4bKZl64u7sSpuRH5T2FhpeL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0962998-04c7-45f3-a4bc-c56477259855" name="Changes" comment="" />
+      <created>1692545495254</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692545495254</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

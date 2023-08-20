@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Programs/Additions/Additions.iml" filepath="$PROJECT_DIR$/Programs/Additions/Additions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment/Assignment.iml" filepath="$PROJECT_DIR$/Assignment/Assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment 3/Assignment 3.iml" filepath="$PROJECT_DIR$/Assignment 3/Assignment 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programs/Comparision/Comparision.iml" filepath="$PROJECT_DIR$/Programs/Comparision/Comparision.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise/Exercise.iml" filepath="$PROJECT_DIR$/Exercise/Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programs/First Program/First Program.iml" filepath="$PROJECT_DIR$/Programs/First Program/First Program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/First_java_Project/First_java_Project.iml" filepath="$PROJECT_DIR$/First_java_Project/First_java_Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programs/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Programs/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JAVA.iml" filepath="$PROJECT_DIR$/.idea/JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programs/Mid Exercies/Mid Exercies.iml" filepath="$PROJECT_DIR$/Programs/Mid Exercies/Mid Exercies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programs/Opp_Lec_1/Opp_Lec_1.iml" filepath="$PROJECT_DIR$/Programs/Opp_Lec_1/Opp_Lec_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice Set 3/Practice Set 3.iml" filepath="$PROJECT_DIR$/Practice Set 3/Practice Set 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programs/Programs.iml" filepath="$PROJECT_DIR$/Programs/Programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Switch/Switch.iml" filepath="$PROJECT_DIR$/Switch/Switch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tayyab Zain- 4293-FBAS-BSCS-F20/Tayyab Zain- 4293-FBAS-BSCS-F20.iml" filepath="$PROJECT_DIR$/Tayyab Zain- 4293-FBAS-BSCS-F20/Tayyab Zain- 4293-FBAS-BSCS-F20.iml" />
+    </modules>
+  </component>
+</project>
